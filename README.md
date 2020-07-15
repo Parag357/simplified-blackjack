@@ -1,10 +1,15 @@
 # a simple CLI game of blackjack made using python3 and  jupyter notebook. A sample of gameplay follows:
 
 hello player, please enter your name: parag
+
 please enter the balance (must be >0): 1000
+
 hello parag, you have an amount of 1000.0 to bet from
+
 how much amount do you wanna bet ??300
+
 player's turn: 
+
 player has: queen-of-club and six-of-spade
 the value of player's card is 16
 dealer has: ace-of-spade and one hidden card
