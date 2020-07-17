@@ -1,3 +1,6 @@
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 # a simple CLI game of blackjack made using python3 and  jupyter notebook. A sample of gameplay follows:
 
 hello player, please enter your name: parag
